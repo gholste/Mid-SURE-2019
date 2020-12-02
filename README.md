@@ -1,7 +1,12 @@
 # Mid-SURE-2019
+## Automatic Segmentation of Pediatric Chest Radiographs with Deep Learning
 ### Greg Holste
 
-Repository for "Automatic Segmentation of Pediatric Chest Radiographs with Deep Learning," a poster presented at ![Mid-SURE 2019](https://urca.msu.edu/files/forums/36/booklet/2019%20Mid-SURE%20Program%20Book%20-%20Digital.pdf). This work (in progress at the time) was conducted at the ![ACRES REU](https://icer-acres.msu.edu/) under Dr. Adam Alessio. Here you can find the poster presented (`FinalHolsteMidSURE.pdf`) and an auxiliary notebook (`results.ipynb') showing example segmentation results.
+<img src="Figs/FinalHolsteMidSure.jpg" width=500 height=500 class="center">
+
+Repository for *Automatic Segmentation of Pediatric Chest Radiographs with Deep Learning*, a poster presented at ![Mid-SURE 2019](https://urca.msu.edu/files/forums/36/booklet/2019%20Mid-SURE%20Program%20Book%20-%20Digital.pdf) on July 24, 2019. This work (in progress at the time) was conducted at the ![ACRES REU](https://icer-acres.msu.edu/) under Dr. Adam Alessio at Michigan State University.
+
+Here you can find the poster presented (`FinalHolsteMidSURE.pdf`) and an auxiliary notebook (`results.ipynb`) showing more detailed segmentation results.
 
 ---
 
